@@ -1,2 +1,2 @@
 # QuoraBypass
-Bypasses the Quora login prompt.
+An addon for Mozilla Firefox that bypasses the Quora login prompt.
