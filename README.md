@@ -1,2 +1,2 @@
 # QuoraBypass
-An addon for Mozilla Firefox that bypasses the Quora login prompt.
+This addon for Mozilla Firefox tries to remove that annoying Quora login message.
