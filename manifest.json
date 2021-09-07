@@ -1,0 +1,19 @@
+{
+
+  "manifest_version": 2,
+  "name": "QuoraBypass",
+  "version": "1.0",
+
+  "description": "A simple extension to bypass the Quora login required message.",
+
+  "icons": {
+    "48": "icons/clamguard.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.quora.com/*"],
+      "js": ["remove_message.js"]
+    }
+  ]
+}
